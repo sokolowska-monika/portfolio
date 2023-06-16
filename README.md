@@ -8,6 +8,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * GIT - version control system (gitlab, github)
 * IntelliJ - Java IDE
 * TestNG, JUnit - testing frameworks
+* Rest-assured - API testing
 * Maven - build automation tool
 * Selenium - browsers automation
 * Git Bash, Windows Command Prompt - terminal
@@ -39,12 +40,15 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020);
 
 ## Courses
-* uTest Academy (with All Stars Academy Cycle for best students)
 * "Programming Foundations: Software Testing/QA" (Linkedin)
+* "Programming Foundations: Fundamentals" (Linkedin)
 * "Java Oriented Programming" (Linkedin)
 * "Learning Java 17" (Linkedin)
 * "Learning Git & github" (Linkedin)
+* "Foundation of Test Automation" (Linkedin)
+* "Podstawy programowania: API i usługi sieciowe" (Linkedin)
 * "ISTQB Foundation Exam Prep" (Linkedin)
+* uTest Academy (with All Stars Academy Cycle for best students)
 
 ## Events
 * "Na podbój IT!" (27.05.2023)

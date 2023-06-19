@@ -47,6 +47,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "Learning Git & github" (Linkedin)
 * "Foundation of Test Automation" (Linkedin)
 * "Podstawy programowania: API i usługi sieciowe" (Linkedin)
+* "Java: Automated API Testing with REST Assured" (Linkedin)
 * "ISTQB Foundation Exam Prep" (Linkedin)
 * uTest Academy (with All Stars Academy Cycle for best students)
 

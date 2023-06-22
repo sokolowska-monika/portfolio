@@ -31,13 +31,15 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * German (basic)
 
 ## Literature
+* CTFL Syllabus 2018 v3.1.1;
 * Graham D., van Veenendaal E., Evans I., Black R.  - "Foundation of Software Testing" (Cengage Learning EMEA, 2019);
-* CTFL Syllabus 2018 v3.1.1
+* Horstmann C. S.- "Java. Podstawy. Wydanie XI" (Helion, Gliwice, 2019);
 * Roman A. - "A Study Guide to the ISTQB® Foundation Level 2018 Syllabus_ Test Techniques and Sample Mock Exams" (Springer Nature Switzerland AG 2018)
-* Roman A. - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia" (PWN, Warszawa 2018) (work in progress…);
+* Roman A. - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia" (PWN, Warszawa 2018) (in progress…);
 * Roman A., Stapp L. - "Certyfikowany tester ISTQB® Poziom podstawowy" (Gliwice 2020);
 * Smilgin R. - "Zawód tester. Od decyzji do zdobycia doświadczenia" (PWN, Warszawa 2018);
-* Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020);
+* Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020) - (in progress…);
+* Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Courses
 * "Programming Foundations: Software Testing/QA" (Linkedin)

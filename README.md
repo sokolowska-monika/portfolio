@@ -44,6 +44,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 ## Courses
 * "Programming Foundations: Software Testing/QA" (Linkedin)
 * "Programming Foundations: Fundamentals" (Linkedin)
+* "Programming Foundations: Algorithms" (Linkedin)
 * "Java Oriented Programming" (Linkedin)
 * "Learning Java 17" (Linkedin)
 * "Learning Git & github" (Linkedin)

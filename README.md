@@ -42,12 +42,14 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Courses
+* "Software Testing Foundations: Test Techniques" (Linkedin)
+* "Understanding manual testing" (Linkedin)
 * "Programming Foundations: Software Testing/QA" (Linkedin)
 * "Programming Foundations: Fundamentals" (Linkedin)
 * "Programming Foundations: Algorithms" (Linkedin)
 * "Java Oriented Programming" (Linkedin)
 * "Learning Java 17" (Linkedin)
-* "Learning Git & github" (Linkedin)
+* "Learning Git & GitHub" (Linkedin)
 * "Foundation of Test Automation" (Linkedin)
 * "Podstawy programowania: API i usługi sieciowe" (Linkedin)
 * "Java: Automated API Testing with REST Assured" (Linkedin)

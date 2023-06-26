@@ -5,7 +5,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 
 ## Tools
 * Jira & RTM - project management
-* GIT - version control system (gitlab, github)
+* GIT - version control system (Gitlab, GitHub)
 * IntelliJ - Java IDE
 * TestNG, JUnit - testing frameworks
 * Rest-assured - API testing
@@ -26,9 +26,9 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 
 ## Communication
 * Polish (native)
-* English (advanced)
-* Spanish (basic)
-* German (basic)
+* English (C1)
+* Spanish (A1)
+* German (A1)
 
 ## Literature
 * CTFL Syllabus 2018 v3.1.1;
@@ -42,19 +42,26 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Courses
-* "Software Testing Foundations: Test Techniques" (Linkedin)
-* "Understanding manual testing" (Linkedin)
-* "Programming Foundations: Software Testing/QA" (Linkedin)
-* "Programming Foundations: Fundamentals" (Linkedin)
-* "Programming Foundations: Algorithms" (Linkedin)
-* "Java Oriented Programming" (Linkedin)
-* "Learning Java 17" (Linkedin)
-* "Learning Git & GitHub" (Linkedin)
-* "Foundation of Test Automation" (Linkedin)
-* "Podstawy programowania: API i usługi sieciowe" (Linkedin)
-* "Java: Automated API Testing with REST Assured" (Linkedin)
-* "ISTQB Foundation Exam Prep" (Linkedin)
-* uTest Academy (with All Stars Academy Cycle for best students)
+* "Succeeding in Software Testing" (LinkedIn Learning - 06/2023)
+* "Agile Testing" (LinkedIn Learning - 06/2023)
+* "Software Testing Foundations: Test Techniques" (LinkedIn Learning - 06/2023)
+* "Understanding manual testing" (LinkedIn Learning - 06/2023)
+* "Programming Foundations: Software Testing/QA" (LinkedIn Learning - 05/2023)
+* "Programming Foundations: Fundamentals" (LinkedIn Learning - 06/2023)
+* "Programming Foundations: Algorithms" (LinkedIn Learning - 06/2023)
+* "Foundation of Test Automation" (LinkedIn Learning - 06/2023)
+* "Podstawy programowania: API i usługi sieciowe" (LinkedIn Learning - 06.2023)
+* "Java: Automated API Testing with REST Assured" (LinkedIn Learning - 06.2023)
+* "Java Oriented Programming" (LinkedIn Learning - 05/2023)
+* "Learning Java 17" (LinkedIn Learning - 05/2023)
+* "Learning Git & GitHub" (LinkedIn Learning - 05/2023)
+* "ISTQB Foundation Exam Prep" (LinkedIn Learning - 05/2023)
+* uTest Academy (with All Stars Academy Cycle for best students - 02/03.2023)
 
 ## Events
-* "Na podbój IT!" (27.05.2023)
+* "Podstawowe zasady testów wydajnościowych (AmberTeam, webinar - 05.06.2023)
+* "Na podbój IT!" (SJSI, konferencja Kraków - 27.05.2023)
+* "Jak dostać pracę jako tester SZYBCIEJ" (4testers.pl,  webinar - 30.05.2023)
+* "Jira, wszystko co musisz wiedzieć, żeby efektownie pracować zwinnie" (Agile Masters, webinar - 16.05.2023)
+* "English with a Tech Girl" (canTest.it, webinar - 09.05.2023)
+* "Wróżenie z fusów - 2022/2023" (KraQA, webinar - 28.11.2023)

@@ -46,6 +46,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "ISTQB Certified Tester Foundation Level (CTFL) v3.1 (2018)" (Udemy - 07/2023)
 * "Getting Started with Continuous Integration / Continuous Delivery (CI/CD)" (LinkedIn Learning - 06/2023)
 * "Continuous Integration: Tools" (LinkedIn Learning - 06/2023)
 * "DevOps Foundations: Continuous Delivery/Continuous Integration" (LinkedIn Learning - 06/2023)

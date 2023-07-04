@@ -59,13 +59,13 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "Programming Foundations: Fundamentals" (LinkedIn Learning - 06/2023)
 * "Programming Foundations: Algorithms" (LinkedIn Learning - 06/2023)
 * "Foundation of Test Automation" (LinkedIn Learning - 06/2023)
-* "Podstawy programowania: API i usługi sieciowe" (LinkedIn Learning - 06.2023)
-* "Java: Automated API Testing with REST Assured" (LinkedIn Learning - 06.2023)
+* "Podstawy programowania: API i usługi sieciowe" (LinkedIn Learning - 06/2023)
+* "Java: Automated API Testing with REST Assured" (LinkedIn Learning - 06/2023)
 * "Java Oriented Programming" (LinkedIn Learning - 05/2023)
 * "Learning Java 17" (LinkedIn Learning - 05/2023)
 * "Learning Git & GitHub" (LinkedIn Learning - 05/2023)
 * "ISTQB Foundation Exam Prep" (LinkedIn Learning - 05/2023)
-* uTest Academy (with All Stars Academy Cycle for best students - 02/03.2023)
+* uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
 * "Podstawowe zasady testów wydajnościowych (AmberTeam, webinar - 05.06.2023)

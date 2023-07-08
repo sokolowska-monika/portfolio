@@ -8,7 +8,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * GIT - version control system (Gitlab, GitHub)
 * IntelliJ - Java IDE
 * TestNG, JUnit - testing frameworks
-* Rest-assured - API testing
+* REST-assured - API testing
 * Maven - build automation tool
 * Selenium - browsers automation
 * Git Bash, Windows Command Prompt - terminal

@@ -68,6 +68,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "COLT 2/2023" - collaborative testing (Cherry-it.pl, 15.07.2023-16.08.2023)
 * "Podstawowe zasady testów wydajnościowych (AmberTeam, webinar - 05.06.2023)
 * "Na podbój IT!" (SJSI, konferencja Kraków - 27.05.2023)
 * "Jak dostać pracę jako tester SZYBCIEJ" (4testers.pl,  webinar - 30.05.2023)

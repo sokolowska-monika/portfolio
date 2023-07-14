@@ -42,6 +42,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
   
 ## Certificates
+* ISTQB Certified Tester Foundation Level No 20794/CTFL/202
 * "Getting Started with Continuous Integration / Continuous Delivery (CI/CD)" (LinkedIn Learning - 06/2023)
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   

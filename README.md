@@ -69,6 +69,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Efektywne zarządzanie testami w Jira - dodatki w praktyce" - webinar eduamp (18.07.2023)
 * "Wakacje z kanbanem" - workshop (AgileLabs, 17.07.2023)
 * "COLT 2/2023" - collaborative testing (Cherry-it.pl, 15.07.2023-16.08.2023)
 * "Podstawowe zasady testów wydajnościowych (AmberTeam, webinar - 05.06.2023)

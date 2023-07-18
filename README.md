@@ -4,21 +4,17 @@
 Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022. I joined AGH University of Science and Technology on Software Quality Assurance postgraduate studies ([qa.agh.edu.pl](https://www.podyplomowe.agh.edu.pl/en/postgraduate-studies/inzynieria-jakosci-oprogramowania/)) to gain experience and get guidance to learn more in the field of testing. I am experienced with both manual and automation testing, creating test scenarios, test cases and writing high quality bug reports. This portfolio is to present some of my skills and experiences to get a junior position in software testing.
 
 ## Tools
-* Jira & RTM - project management
-* GIT - version control system (Gitlab, GitHub)
-* IntelliJ - Java IDE
-* TestNG, JUnit - testing frameworks
-* REST-assured - API testing
-* Maven - build automation tool
-* Selenium - browsers automation
-* Git Bash, Windows Command Prompt - terminal
-* Postman - testing REST API 
-* Jenkins - CI/CD
-* Lucidchart - online flowchart maker
-* ShareX, Bandicam, Charles Proxy - attachments tools
-* Scrum - agile project management framework
-* Photoshop, Affinity, CorelDraw - graphic design
-* ArchiCAD, AutoCAD - design & drafting software applications
+* GIT (Gitlab, GitHub)
+* Jira & RTM 
+* REST-assured, Postman
+* Selenium, TestNG, JUnit 
+* Jenkins
+* Bash, CMD
+* Scrum
+* Lucidchart
+* ShareX, Bandicam, Charles Proxy
+* Photoshop, Affinity, CorelDraw, Canva
+* ArchiCAD, AutoCAD
 
 ## Languages
 * Java
@@ -47,6 +43,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "SQL Server Fundamentals: Master Basic Query Techniques" (LinkedIn Learning 07/2023)
 * "ISTQB Certified Tester Foundation Level (CTFL) v3.1 (2018)" (Udemy - 07/2023)
 * "Getting Started with Continuous Integration / Continuous Delivery (CI/CD)" (LinkedIn Learning - 06/2023)
 * "Continuous Integration: Tools" (LinkedIn Learning - 06/2023)

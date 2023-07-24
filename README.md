@@ -43,6 +43,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Selenium Essential Training" (LinkedIn Learning 07/2023)
 * "Java: Practice Unit Testing" (LinkedIn Learning 07/2023)
 * "SQL Server Fundamentals: Master Basic Query Techniques" (LinkedIn Learning 07/2023)
 * "ISTQB Certified Tester Foundation Level (CTFL) v3.1 (2018)" (Udemy - 07/2023)

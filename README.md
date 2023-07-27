@@ -68,6 +68,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "MeetQA #7" - webinar Szkolenie dla QA (27.07.2023)
 * "Wakacje z IT: podstawy programowania" - warsztaty FlexDev Academy (25.07.2023)
 * "Efektywne zarządzanie testami w Jira - dodatki w praktyce" - webinar eduamp (18.07.2023)
 * "Wakacje z kanbanem" - workshop (AgileLabs, 17.07.2023)

@@ -43,6 +43,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Scrum: The Basics" (LinkedIn Learning 07/2023)
 * "Selenium Essential Training" (LinkedIn Learning 07/2023)
 * "Java: Practice Unit Testing" (LinkedIn Learning 07/2023)
 * "SQL Server Fundamentals: Master Basic Query Techniques" (LinkedIn Learning 07/2023)

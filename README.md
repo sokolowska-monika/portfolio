@@ -36,13 +36,16 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Smilgin R. - "Zawód tester. Od decyzji do zdobycia doświadczenia" (PWN, Warszawa 2018);
 * Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020) - (in progress…);
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
-  
+
 ## Certificates
 * ISTQB Certified Tester Foundation Level No 20794/CTFL/2023
 * "Getting Started with Continuous Integration / Continuous Delivery (CI/CD)" (LinkedIn Learning - 06/2023)
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Software Testing: Exploratory Testing" (LinkedIn Learning 08/2023)
+* "Software Testing Foundations: Test Planning" (LinkedIn Learning 08/2023)
+* "Java Essential Training: Syntax and Structure" (LinkedIn Learning 07/2023)
 * "Scrum: The Basics" (LinkedIn Learning 07/2023)
 * "Selenium Essential Training" (LinkedIn Learning 07/2023)
 * "Java: Practice Unit Testing" (LinkedIn Learning 07/2023)

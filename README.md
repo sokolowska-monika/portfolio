@@ -72,6 +72,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Jak korzystać z DevTools w testach manualnych i przy automatyzacji?" – webinar 4_testers (08.08.2023)
 * "Grow Up" - program rozwojowy Fundacji MamoPracuj (08/2023)
 * "Wakacje! Cel: testowanie oprogramowania" - konkurs Akademii Testowania i Fundacji MamoPracuj (08/2023)
 * "MeetQA #7" - webinar Szkolenie dla QA (27.07.2023)

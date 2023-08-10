@@ -43,6 +43,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Postman Essential Training" (LinkedIn Learning 08/2023)
 * "Software Testing: Exploratory Testing" (LinkedIn Learning 08/2023)
 * "Software Testing Foundations: Test Planning" (LinkedIn Learning 08/2023)
 * "Java Essential Training: Syntax and Structure" (LinkedIn Learning 07/2023)

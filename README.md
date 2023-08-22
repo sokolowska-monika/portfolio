@@ -38,6 +38,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Certificates
+* "LambdaTest Test Automation Professional Certificate" (LinkedIn Learning - 08/2023)
 * "Trello Fundamentals" (Atlassian University Badge - 08/2023)
 * "Confluence Fundamentals" (Atlassian University Badge - 08/2023)
 * "Jira Fundamentals" (Atlassian University Badge - 08/2023)
@@ -47,6 +48,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Test Automation Foundations" (LinkedIn Learning 08/2023)
 * "Postman Essential Training" (LinkedIn Learning 08/2023)
 * "Software Testing: Exploratory Testing" (LinkedIn Learning 08/2023)
 * "Software Testing Foundations: Test Planning" (LinkedIn Learning 08/2023)
@@ -77,6 +79,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Synergia między testowaniem manualnym i automatycznym" - webinar Future Collars (16.08.2023)
 * "Jak korzystać z DevTools w testach manualnych i przy automatyzacji?" – webinar 4_testers (08.08.2023)
 * "Grow Up" - program rozwojowy Fundacji MamoPracuj (08/2023)
 * "Wakacje! Cel: testowanie oprogramowania" - konkurs Akademii Testowania i Fundacji MamoPracuj (08/2023)

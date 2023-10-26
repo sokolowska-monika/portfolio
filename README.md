@@ -5,9 +5,12 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 
 ## Tools
 * GIT (Gitlab, GitHub)
-* Jira & RTM 
-* REST-assured, Postman
-* Selenium, TestNG, JUnit 
+* Jira, Confluence, Trello
+* RTM
+* Postman
+* Selenium
+* REST-assured
+* TestNG, JUnit 
 * Jenkins
 * Bash, CMD
 * Scrum
@@ -79,6 +82,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "TEST DIVE CONFERENCE" (12.10.2023)
 * "Jak dbać o czysty kod w testach" – webinar 4_testers (23.08.2023)
 * "Testμ Conference 2023 - Decode the future of testing" - konferencja online LambdaTest (22-24.08.2023)
 * "Wakacje z IT: podstawy testowania" - warsztaty FlexDev Academy (22.08.2023)

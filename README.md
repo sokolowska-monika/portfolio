@@ -1,16 +1,17 @@
 # portfolio
 
 ## About me
-Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022. I joined AGH University of Science and Technology on Software Quality Assurance postgraduate studies ([qa.agh.edu.pl](https://www.podyplomowe.agh.edu.pl/en/postgraduate-studies/inzynieria-jakosci-oprogramowania/)) to gain experience and get guidance to learn more in the field of testing. I am experienced with both manual and automation testing, creating test scenarios, test cases and writing high quality bug reports. This portfolio is to present some of my skills and experiences to get a junior position in software testing.
+Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022. I joined AGH University of Science and Technology on Software Quality Assurance postgraduate studies ([qa.agh.edu.pl](https://www.podyplomowe.agh.edu.pl/en/postgraduate-studies/inzynieria-jakosci-oprogramowania/)) to gain experience and get guidance to learn more in the field of testing. I am experienced with both manual and automation testing, creating test scenarios, test cases and writing high quality bug reports. This portfolio is to present some of my skills and experiences.
 
 ## Tools
 * GIT (Gitlab, GitHub)
 * Jira, Confluence, Trello
-* RTM
-* Postman
+* RTM, Zephyr
+* Postman, Insomnium
 * Selenium
 * REST-assured
-* TestNG, JUnit 
+* TestNG, JUnit
+* NUnit (in progress)
 * Jenkins
 * Bash, CMD
 * Scrum
@@ -20,7 +21,8 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * ArchiCAD, AutoCAD
 
 ## Languages
-* Java
+* Java (basic)
+* C# (in progress)
 * SQL (basic queries)
 
 ## Communication
@@ -30,6 +32,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * German (A1)
 
 ## Literature
+* Black R. - "Managing the Testing Process" (Wiley Publishing Inc., 2002);
 * CTFL Syllabus 2018 v3.1.1;
 * Graham D., van Veenendaal E., Black R.  - "Foundation of Software Testing" (Cengage Learning EMEA, 2020);
 * Horstmann C. S.- "Java. Podstawy. Wydanie XI" (Helion, Gliwice, 2019);
@@ -38,6 +41,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Roman A., Stapp L. - "Certyfikowany tester ISTQB® Poziom podstawowy" (Gliwice 2020);
 * Smilgin R. - "Zawód tester. Od decyzji do zdobycia doświadczenia" (PWN, Warszawa 2018);
 * Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020) - (in progress…);
+* Sutherland J., - "SCRUM czyli jak zrobić dwa razy więcej, dwa razy szybciej" (PWN 2017)
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Certificates
@@ -51,6 +55,11 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "C# Fundamentals" (Pluralsight 03/2024)
+* "Foundational C# with Microsoft Certification" (FreeCodeCamp 2024 - in progress)
+* "Zephyr for Jira Fundamentals" (Pluralsight 01/2024)
+* "Managing and Reporting on Tests with Zephyr for Jira" (Pluralsight 01/2024)
+* "Scrum master Fundamentals - Foundations" (Pluralsight 01/2024)
 * "Test Automation Foundations" (LinkedIn Learning 08/2023)
 * "Postman Essential Training" (LinkedIn Learning 08/2023)
 * "Software Testing: Exploratory Testing" (LinkedIn Learning 08/2023)
@@ -82,6 +91,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Woman of IT" - program mentoringowy Codeaccess (12/2023 - 03/2024)
 * "TEST DIVE CONFERENCE" (12.10.2023)
 * "Jak dbać o czysty kod w testach" – webinar 4_testers (23.08.2023)
 * "Testμ Conference 2023 - Decode the future of testing" - konferencja online LambdaTest (22-24.08.2023)

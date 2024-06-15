@@ -7,9 +7,9 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * GIT (Gitlab, GitHub)
 * Jira, Confluence, Trello
 * RTM, Zephyr
-* Postman, Insomnium
+* Postman, Insomnium, Bruno
 * Selenium
-* REST-assured
+* REST Assured
 * TestNG, JUnit
 * NUnit (in progress)
 * Jenkins
@@ -45,6 +45,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Certificates
+* "SAFe for Teams Course (6.0)" (06/2024)
 * "LambdaTest Test Automation Professional Certificate" (LinkedIn Learning - 08/2023)
 * "Trello Fundamentals" (Atlassian University Badge - 08/2023)
 * "Confluence Fundamentals" (Atlassian University Badge - 08/2023)

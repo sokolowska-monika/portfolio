@@ -103,6 +103,8 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Agile pod Wawelem" - monthy meetups over Agile topics
+* "Liberating structures" - series of monthly meetups for practicing Liberating structures (from 04/2025)
 * "Conference test:fest" (05/2025)
 * "Cybersecurity basics - workshops" (Girls Code Fun - 08/2024)
 * "Design Thinking kariery" (Girls Code Fun - 06/2024)

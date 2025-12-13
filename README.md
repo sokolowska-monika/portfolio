@@ -4,30 +4,27 @@
 Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022. I joined AGH University of Science and Technology on Software Quality Assurance postgraduate studies ([qa.agh.edu.pl](https://www.podyplomowe.agh.edu.pl/en/postgraduate-studies/inzynieria-jakosci-oprogramowania/)) to gain experience and get guidance to learn more in the field of testing. I am experienced with both manual and automation testing, creating test scenarios, test cases and writing high quality bug reports. This portfolio is to present some of my skills and experiences.
 
 ## Tools
-* GIT (Gitlab, GitHub)
+* GIT
 * Jira, Confluence, Trello
-* RTM, Zephyr
-* Postman, Insomnium, Bruno
-* Selenium
-* REST Assured
-* TestNG, JUnit
-* NUnit (in progress)
-* Jenkins
-* Bash, CMD
-* Scrum
-* Lucidchart
+* Miro, Figma, Canva
+* RTM, Zephyr for Jira
+* Visual Studio, IntelliJ
+* Selenium, TestNG, JUnit, NUnit (learning)
+* REST-Assured
+* API clients: Postman, Insomnium, Bruno, Hoppscotch
+* Accessibility: HTML, WCAG 2.1, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
 * ShareX, Bandicam, Charles Proxy
 * Photoshop, Affinity, CorelDraw, Canva
 * ArchiCAD, AutoCAD
 
 ## Languages
 * Java (basic)
-* C# (in progress)
+* C# (basic)
 * SQL (basic queries)
 
 ## Communication
 * Polish (native)
-* English (C1)
+* English (C1/C2)
 * Spanish (A1)
 * German (A1)
 
@@ -45,7 +42,14 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
 
 ## Certificates
-* "SAFe for Teams Course (6.0)" (06/2024)
+* "Certified SAFe 6 Scrum Master" (SAFe by Scaled Agile, Inc. - 12/2024)
+* "SAFe® Scrum Master Course (6.0)" (SAFe by Scaled Agile, Inc. - 11/2025)
+* "MITC Software Testing Level 01" (MITC - 09/2025)
+* "Registered Scrum Basics™" (Agile Education by Scrum Inc.™ - 09/2025)
+* "AIDEAS - Program rozwoju kompetencji AI" (Generator Pomysłów - 04/2025)
+* "EF SET English Certificate" (C2 Proficient - 11/2024)
+* "Certified SAFe 6 Practitioner" (SAFe by Scaled Agile, Inc. - 07/2024)
+* "SAFe for Teams Course (6.0)" (SAFe by Scaled Agile, Inc. - 06/2024)
 * "LambdaTest Test Automation Professional Certificate" (LinkedIn Learning - 08/2023)
 * "Trello Fundamentals" (Atlassian University Badge - 08/2023)
 * "Confluence Fundamentals" (Atlassian University Badge - 08/2023)
@@ -56,6 +60,13 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Miro Essentials" (Miro - 12/2025)
+* "Kurs semantycznego HTML" (Human Thing Ltd - 11/2025)
+* "WAI0.1x: Introduction to Web Accessibility" (W3C - 11/2025)
+* "Testowanie użyteczności i UX" (Sages - 06/2025)
+* "Dostępność cyfrowa (accessibility) dla początkujących" (Tu się testuje - 04/2025)
+* "Performance testing" (Testerzy.pl - 03/2025)
+* "Programowanie w języku C#" (JSystems sp. z o.o. - 11/2024)
 * "C# Fundamentals" (Pluralsight 03/2024)
 * "Foundational C# with Microsoft Certification" (FreeCodeCamp 2024 - in progress)
 * "Zephyr for Jira Fundamentals" (Pluralsight 01/2024)
@@ -92,8 +103,11 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Conference test:fest" (05/2025)
+* "Cybersecurity basics - workshops" (Girls Code Fun - 08/2024)
+* "Design Thinking kariery" (Girls Code Fun - 06/2024)
 * "Woman of IT" - program mentoringowy Codeaccess (12/2023 - 03/2024)
-* "TEST DIVE CONFERENCE" (12.10.2023)
+* "TEST DIVE CONFERENCE" (2023,2024,2025)
 * "Jak dbać o czysty kod w testach" – webinar 4_testers (23.08.2023)
 * "Testμ Conference 2023 - Decode the future of testing" - konferencja online LambdaTest (22-24.08.2023)
 * "Wakacje z IT: podstawy testowania" - warsztaty FlexDev Academy (22.08.2023)

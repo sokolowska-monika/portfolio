@@ -60,6 +60,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Kickstarter Course C#" (Code First Girls - 01/2026)
 * "Miro Essentials" (Miro - 12/2025)
 * "Kurs semantycznego HTML" (Human Thing Ltd - 11/2025)
 * "WAI0.1x: Introduction to Web Accessibility" (W3C - 11/2025)

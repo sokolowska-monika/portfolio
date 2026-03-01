@@ -9,12 +9,12 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Miro, Figma, Canva
 * RTM, Zephyr for Jira
 * Visual Studio, IntelliJ
-* Selenium, TestNG, JUnit, NUnit (learning)
+* Selenium, TestNG, JUnit, NUnit (to refresh)
 * REST-Assured
-* API clients: Postman, Insomnium, Bruno, Hoppscotch
+* API testing: Postman, Insomnium, Bruno, Hoppscotch (including automation)
 * Accessibility: HTML, WCAG 2.1, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
 * ShareX, Bandicam, Charles Proxy
-* Photoshop, Affinity, CorelDraw, Canva
+* Photoshop, Affinity, CorelDraw
 * ArchiCAD, AutoCAD
 
 ## Languages
@@ -60,6 +60,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Audytowanie dostępnosci stron internetowych zgodnie ze standardem WCAG (Web Content Accesssibility guidelines)" - projekt "Systemowe kształcenie specjalistów i specjalistek ds. dostępnosci cyfrowej" - Ministerstwo Cyfryzacji (09/2025 - 02/2026)
 * "Kickstarter Course C#" (Code First Girls - 01/2026)
 * "Miro Essentials" (Miro - 12/2025)
 * "Kurs semantycznego HTML" (Human Thing Ltd - 11/2025)

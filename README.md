@@ -28,28 +28,19 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * Spanish (A1)
 * German (A1)
 
-## Literature
-* Black R. - "Managing the Testing Process" (Wiley Publishing Inc., 2002);
-* CTFL Syllabus 2018 v3.1.1;
-* Graham D., van Veenendaal E., Black R.  - "Foundation of Software Testing" (Cengage Learning EMEA, 2020);
-* Horstmann C. S.- "Java. Podstawy. Wydanie XI" (Helion, Gliwice, 2019);
-* Roman A. - "A Study Guide to the ISTQB® Foundation Level 2018 Syllabus_ Test Techniques and Sample Mock Exams" (Springer Nature Switzerland AG 2018)
-* Roman A. - "Testowanie i jakość oprogramowania. Modele, techniki, narzędzia" (PWN, Warszawa 2018) (in progress…);
-* Roman A., Stapp L. - "Certyfikowany tester ISTQB® Poziom podstawowy" (Gliwice 2020);
-* Smilgin R. - "Zawód tester. Od decyzji do zdobycia doświadczenia" (PWN, Warszawa 2018);
-* Smilgin R. - "Praktyka testowania. Zeszyt ćwiczeń" (PWN, Warszawa 2020) - (in progress…);
-* Sutherland J., - "SCRUM czyli jak zrobić dwa razy więcej, dwa razy szybciej" (PWN 2017)
-* Tisoara M. - "Git i GitHub Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej"(Helion, Gliwice 2022);
-
 ## Certificates
-* "Certified SAFe 6 Scrum Master" (SAFe by Scaled Agile, Inc. - 12/2024)
-* "SAFe® Scrum Master Course (6.0)" (SAFe by Scaled Agile, Inc. - 11/2025)
-* "MITC Software Testing Level 01" (MITC - 09/2025)
+* "MITC Accessibility Audit WCAG 2.1 Level A" (MITC - 07/2026) - Credential ID 1784732515
+* "Professional Scrum Master Advanced Level - PSM II" (Scrum.org - 06/2026)
+* "DHS Trusted Tester" (U.S. Departament of Homeland Security - 06/2026) - Credential ID TT-2606-09215
+* "Web Accessibility Auditor (WCAG)" (Certes/Ministry of Digital Affairs - 02/2026)- Credential ID CERT/7/2026/00233
+* "Certified SAFe 6 Scrum Master" (SAFe by Scaled Agile, Inc. - 12/2025) - Credential ID 40878460-8326
+* "SAFe® Scrum Master Course (6.0)" (SAFe by Scaled Agile, Inc. - 11/2025) - Credential ID 62891427-5217
+* "MITC Software Testing Level 01" (MITC - 09/2025)- Credential ID 1757868673
 * "Registered Scrum Basics™" (Agile Education by Scrum Inc.™ - 09/2025)
 * "AIDEAS - Program rozwoju kompetencji AI" (Generator Pomysłów - 04/2025)
 * "EF SET English Certificate" (C2 Proficient - 11/2024)
-* "Certified SAFe 6 Practitioner" (SAFe by Scaled Agile, Inc. - 07/2024)
-* "SAFe for Teams Course (6.0)" (SAFe by Scaled Agile, Inc. - 06/2024)
+* "Certified SAFe 6 Practitioner" (SAFe by Scaled Agile, Inc. - 07/2024) - Credential ID 58794828-2676
+* "SAFe for Teams Course (6.0)" (SAFe by Scaled Agile, Inc. - 06/2024) - Credential ID 00377380-2628
 * "LambdaTest Test Automation Professional Certificate" (LinkedIn Learning - 08/2023)
 * "Trello Fundamentals" (Atlassian University Badge - 08/2023)
 * "Confluence Fundamentals" (Atlassian University Badge - 08/2023)
@@ -63,8 +54,8 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "Audytowanie dostępnosci stron internetowych zgodnie ze standardem WCAG (Web Content Accesssibility guidelines)" - projekt "Systemowe kształcenie specjalistów i specjalistek ds. dostępnosci cyfrowej" - Ministerstwo Cyfryzacji (09/2025 - 02/2026)
 * "Kickstarter Course C#" (Code First Girls - 01/2026)
 * "Miro Essentials" (Miro - 12/2025)
-* "Kurs semantycznego HTML" (Human Thing Ltd - 11/2025)
-* "WAI0.1x: Introduction to Web Accessibility" (W3C - 11/2025)
+* "Kurs semantycznego HTML" (Human Thing Ltd - 11/2025) - Credential ID wmgrihykk4
+* "WAI0.1x: Introduction to Web Accessibility" (W3C - 11/2025) - Credential ID 134de3dfae0c462798e50684b74e4886
 * "Testowanie użyteczności i UX" (Sages - 06/2025)
 * "Dostępność cyfrowa (accessibility) dla początkujących" (Tu się testuje - 04/2025)
 * "Performance testing" (Testerzy.pl - 03/2025)
@@ -105,6 +96,8 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * uTest Academy (with All Stars Academy Cycle for best students - 02-03/2023)
 
 ## Events
+* "Be visible in IT" - Women in Technology by Fundacja Imagine Inclusive Technology (03/2026 - 01/2027)
+* "Women Go Tech" - mentoring programme (04/2026 - 10/2026)
 * "Agile pod Wawelem" - monthy meetups over Agile topics
 * "Liberating structures" - series of monthly meetups for practicing Liberating structures (from 04/2025)
 * "Conference test:fest" (05/2025)

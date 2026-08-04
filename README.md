@@ -32,6 +32,7 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "MITC Accessibility Audit WCAG 2.1 Level A" (MITC - 07/2026) - Credential ID 1784732515
 * "Professional Scrum Master Advanced Level - PSM II" (Scrum.org - 06/2026)
 * "DHS Trusted Tester" (U.S. Departament of Homeland Security - 06/2026) - Credential ID TT-2606-09215
+* "Google Umiejętności Jutra 3.0" (Google and SGH - 06/2027)
 * "Web Accessibility Auditor (WCAG)" (Certes/Ministry of Digital Affairs - 02/2026)- Credential ID CERT/7/2026/00233
 * "Certified SAFe 6 Scrum Master" (SAFe by Scaled Agile, Inc. - 12/2025) - Credential ID 40878460-8326
 * "SAFe® Scrum Master Course (6.0)" (SAFe by Scaled Agile, Inc. - 11/2025) - Credential ID 62891427-5217

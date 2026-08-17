@@ -1,18 +1,24 @@
 # portfolio
 
 ## About me
-Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022. I joined AGH University of Science and Technology on Software Quality Assurance postgraduate studies ([qa.agh.edu.pl](https://www.podyplomowe.agh.edu.pl/en/postgraduate-studies/inzynieria-jakosci-oprogramowania/)) to gain experience and get guidance to learn more in the field of testing. I am experienced with both manual and automation testing, creating test scenarios, test cases and writing high quality bug reports. This portfolio is to present some of my skills and experiences.
+Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022.  As a QA, I specialize in manual and automated testing, QA process design and WCAG 2.1 accessibility auditing. I move easily between engineering, UX and business perspectives, helping teams work faster, clearer and with greater confidence.
+
+What sets me apart is the way I approach problems. I’m driven to diagnose systemic issues, build transparent processes and turn complex technical challenges into practical, actionable steps. I care deeply about people and the relationships that make delivery possible - creating clarity, psychological safety and collaboration that actually works. And above all, I love solving real user problems, making sure the product meets them where they are.
+
+I also genuinely love learning and expanding my horizons. Whether it’s new testing techniques, emerging accessibility standards or better ways to support teams, continuous growth is part of how I work and who I am.
+
+My goal is simple: to help build environments where quality, accessibility and agility are not optional extras, but the natural way teams create meaningful digital experiences.
 
 ## Tools
-* GIT
+* GIT, CI/CD
 * Jira, Confluence, Trello
 * Miro, Figma, Canva
 * RTM, Zephyr for Jira
 * Visual Studio, IntelliJ
 * Selenium, TestNG, JUnit, NUnit (to refresh)
 * REST-Assured
-* API testing: Postman, Insomnium, Bruno, Hoppscotch (including automation)
-* Accessibility: HTML, WCAG 2.1, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
+* API testing: Postman, Insomnium, Bruno, Hoppscotch (including automated test execution with Javascript)
+* Accessibility: HTML compliance, WCAG standards, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, CCA, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
 * ShareX, Bandicam, Charles Proxy
 * Photoshop, Affinity, CorelDraw
 * ArchiCAD, AutoCAD
@@ -24,11 +30,15 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 
 ## Communication
 * Polish (native)
-* English (C1/C2)
+* English (C2)
 * Spanish (A1)
 * German (A1)
 
 ## Certificates
+* "IREB CPRE Foundation" (Inprogress - 08/2026) - Credential ID O.8605-2608/17
+* "ISTQB® Certified Tester Advanced Level - Test Analyst -CTAL-TA" (GASQ - 08/2026) - Credential ID 26-135037
+* "DTMethod® Foundation" (APMG International - 08/2026) - Credential ID 091075987-DSWR
+* "DTMethod® Foundation" (Inprogress - 07/2026) - Credential ID O.8378-2608/12
 * "MITC Accessibility Audit WCAG 2.1 Level A" (MITC - 07/2026) - Credential ID 1784732515
 * "Professional Scrum Master Advanced Level - PSM II" (Scrum.org - 06/2026)
 * "DHS Trusted Tester" (U.S. Departament of Homeland Security - 06/2026) - Credential ID TT-2606-09215
@@ -52,6 +62,10 @@ Hello! My name is Monika Sokołowska. I am a former architect with scientific ba
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "IREB CPRE Foundation" (Inprogress - 08/2026)
+* "DTMethod® Foundation" (Inprogress - 07/2026)
+* "ISTQB® Certified Tester Advanced Level - Test Analyst (CTAL-TA) v.4.0 course" (Testerzy.pl - 07/2026)
+* "Professional Scrum Master Advanced Level - PSM II course" (QAgile - 07/2026)
 * "Audytowanie dostępnosci stron internetowych zgodnie ze standardem WCAG (Web Content Accesssibility guidelines)" - projekt "Systemowe kształcenie specjalistów i specjalistek ds. dostępnosci cyfrowej" - Ministerstwo Cyfryzacji (09/2025 - 02/2026)
 * "Kickstarter Course C#" (Code First Girls - 01/2026)
 * "Miro Essentials" (Miro - 12/2025)

@@ -10,15 +10,15 @@ I also genuinely love learning and expanding my horizons. Whether it’s new tes
 My goal is simple: to help build environments where quality, accessibility and agility are not optional extras, but the natural way teams create meaningful digital experiences.
 
 ## Tools
-* GIT, CI/CD
-* Jira, Confluence, Trello
-* Miro, Figma, Canva
 * RTM, Zephyr for Jira
 * Visual Studio, IntelliJ
 * Selenium, TestNG, JUnit, NUnit (to refresh)
 * REST-Assured
 * API testing: Postman, Insomnium, Bruno, Hoppscotch (including automated test execution with Javascript)
 * Accessibility: HTML compliance, WCAG standards, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, CCA, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
+* GIT, CI/CD
+* Jira, Confluence, Trello
+* Miro, Figma, Canva
 * ShareX, Bandicam, Charles Proxy
 * Photoshop, Affinity, CorelDraw
 * ArchiCAD, AutoCAD
@@ -35,6 +35,11 @@ My goal is simple: to help build environments where quality, accessibility and a
 * German (A1)
 
 ## Certificates
+* "AgileBA® Business Analyst Foundation" (APMG International - 09/2026) - Credential ID 091080509-V9GD
+* "AgileBA® Foundation v2" (Inprogress - 09/2026) - Credential ID  O.9135-2609/04
+* "Agile Change Agent" (APMG International - 09/2026) - Credential ID 091078737-JQXQ
+* "Agile Change Agent" (Inprogress - 09/2026) - Credential ID O.8431-2609/12
+* "Jira Basic - configuration & project management" (Inprogress - 08/2026) - Credential ID O.8673-2608/07
 * "IREB CPRE Foundation" (Inprogress - 08/2026) - Credential ID O.8605-2608/17
 * "ISTQB® Certified Tester Advanced Level - Test Analyst -CTAL-TA" (GASQ - 08/2026) - Credential ID 26-135037
 * "DTMethod® Foundation" (APMG International - 08/2026) - Credential ID 091075987-DSWR
@@ -62,6 +67,9 @@ My goal is simple: to help build environments where quality, accessibility and a
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "AgileBA® Foundation" (Inprogress - 09/2026)
+* "Agile Change Agent" (Inprogress - 09/2026)
+* "Jira Basic - configuration & project management" (Inprogress - 08/2026)
 * "IREB CPRE Foundation" (Inprogress - 08/2026)
 * "DTMethod® Foundation" (Inprogress - 07/2026)
 * "ISTQB® Certified Tester Advanced Level - Test Analyst (CTAL-TA) v.4.0 course" (Testerzy.pl - 07/2026)

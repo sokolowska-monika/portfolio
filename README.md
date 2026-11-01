@@ -35,7 +35,10 @@ My goal is simple: to help build environments where quality, accessibility and a
 * German (A1)
 
 ## Certificates
-* *Facilitation Foundation - Fast Track" (Inprogress - 09/2026) - Credential ID O.8459-2609/02
+* "Change Management V3 Foundation" (APMG International - 10/2026) - Credential ID 091083242-HLY5
+* "Change Management Foundation" (Inprogress - 10/2026) - Credential ID O.8417-2610/08
+* "Facilitation™ Foundation" (APMG International - 10/2026) - Credential ID 091082483-EUQP
+* "Facilitation Foundation - Fast Track" (Inprogress - 09/2026) - Credential ID O.8459-2609/02
 * "AgileBA® Business Analyst Foundation" (APMG International - 09/2026) - Credential ID 091080509-V9GD
 * "AgileBA® Foundation v2" (Inprogress - 09/2026) - Credential ID  O.9135-2609/04
 * "Agile Change Agent" (APMG International - 09/2026) - Credential ID 091078737-JQXQ
@@ -68,6 +71,8 @@ My goal is simple: to help build environments where quality, accessibility and a
 * "LambdaTest Software Testing Professional Certificate" (LinkedIn Learning - 06/2023)
   
 ## Courses
+* "Virtual Team Management" (Inprogress - 10/2026)
+* "Change Management Foundation" (Inprogress - 10/2026)
 * "Facilitation Foundation - Fast Track" (Inprogress - 09/2026)
 * "AgileBA® Foundation" (Inprogress - 09/2026)
 * "Agile Change Agent" (Inprogress - 09/2026)

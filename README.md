@@ -3,22 +3,24 @@
 ## About me
 Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022.  As a QA, I specialize in manual and automated testing, QA process design and WCAG 2.1 accessibility auditing. I move easily between engineering, UX and business perspectives, helping teams work faster, clearer and with greater confidence.
 
-What sets me apart is the way I approach problems. I’m driven to diagnose systemic issues, build transparent processes and turn complex technical challenges into practical, actionable steps. I care deeply about people and the relationships that make delivery possible - creating clarity, psychological safety and collaboration that actually works. And above all, I love solving real user problems, making sure the product meets them where they are.
+An Software QA Engineer, Scrum Master and accessibility advocate, I focus on crafting digital spaces that do not fail their users - because behind every interface stands a person trying to get something done.
 
-I also genuinely love learning and expanding my horizons. Whether it’s new testing techniques, emerging accessibility standards or better ways to support teams, continuous growth is part of how I work and who I am.
+With over 4 years of hands‑on QA experience and a deep background as an architect, I bring a holistic, user-centered perspective to quality. I specialize in manual and automated testing, QA process design, and accessibility auditing, connecting engineering, UX, and business goals to deliver better products.
+
+I’m passionate about solving complex problems, improving processes, and fostering collaboration, transparency, and psychological safety within teams. Continuous learning drives me, whether through new testing practices, accessibility standards, or ways to support agile delivery.
 
 My goal is simple: to help build environments where quality, accessibility and agility are not optional extras, but the natural way teams create meaningful digital experiences.
 
 ## Tools
 * RTM, Zephyr for Jira
+* Jira, Confluence, Trello
+* Miro, Figma, Canva
 * Visual Studio, IntelliJ
 * Selenium, TestNG, JUnit, NUnit (to refresh)
 * REST-Assured
 * API testing: Postman, Insomnium, Bruno, Hoppscotch (including automated test execution with Javascript)
 * Accessibility: HTML compliance, WCAG standards, Dev Tools, WAVE Evaluation Tool, Silktide Accessibility Checker, CCA, ARC Toolkit, AXE DevTools, IBM Accessibility Checker, ANDI, NVDA and more
 * GIT, CI/CD
-* Jira, Confluence, Trello
-* Miro, Figma, Canva
 * ShareX, Bandicam, Charles Proxy
 * Photoshop, Affinity, CorelDraw
 * ArchiCAD, AutoCAD
@@ -26,7 +28,7 @@ My goal is simple: to help build environments where quality, accessibility and a
 ## Languages
 * Java (basic)
 * C# (basic)
-* SQL (basic queries)
+* SQL (basic)
 
 ## Communication
 * Polish (native)

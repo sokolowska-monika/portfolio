@@ -1,7 +1,7 @@
 # portfolio
 
 ## About me
-Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022.  As a QA, I specialize in manual and automated testing, QA process design and WCAG 2.1 accessibility auditing. I move easily between engineering, UX and business perspectives, helping teams work faster, clearer and with greater confidence.
+Hello! My name is Monika Sokołowska. I am a former architect with scientific background, who decided to start a new career as a software tester in October 2022.  
 
 An Software QA Engineer, Scrum Master and accessibility advocate, I focus on crafting digital spaces that do not fail their users - because behind every interface stands a person trying to get something done.
 
